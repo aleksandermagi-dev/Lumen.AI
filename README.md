@@ -4,6 +4,7 @@ Lumen is a modular AI system focused on intent-driven interaction, structured re
 
 The system is designed to operate through staged reasoning, domain routing, and modular architecture rather than single-response outputs.
 
-Currently in active development.
+## Status
+Core pipeline operational — refinement and expansion in progress
 
 No Tokens :(
